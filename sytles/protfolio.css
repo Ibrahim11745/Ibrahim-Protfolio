@@ -221,3 +221,31 @@ input{
 .contract a{
     text-decoration: none;
 }
+
+.btn-primary{
+    color: white;
+    text-align: center;
+    background-color: #FD6E0A;
+    border-radius: 30px;
+   
+    
+}
+
+.Email{
+  
+  margin-top: 10px;
+}
+
+.message-area{
+    margin: 10px;
+    width: 100px;
+    height: 50px;
+   
+}
+
+.banner,img{
+   margin-right: 10px;
+   
+   
+}
+
