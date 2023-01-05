@@ -130,9 +130,10 @@ font-size: 35px;
 }
 
 .section-title{
-    font-weight: 700;
+    font-weight: 700px;
     font-size: 35px;
     margin-bottom: 30px;
+    padding-top: 50px ;
     text-align: center;
 }
 
@@ -146,15 +147,47 @@ font-size: 35px;
     border-radius: 5px;
     padding: 30px;
 }
-.sikk-taitle{
+.taitle{
     font-weight: 700;
     font-size: 20px;
     margin-top: 30px;
     margin-bottom: 20px;
 }
 
-.skil-descrip{
+
+
+/* Resume Style */
+
+
+.resume-content{
+    display: flex;
+    gap: 26px;
+}
+
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.resume-title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+
+}
+.Resume-sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.resume-descip{
     color: #757575;
 }
 
-/* Resume Style */
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
